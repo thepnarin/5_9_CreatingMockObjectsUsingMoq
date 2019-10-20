@@ -1,0 +1,13 @@
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\obj\Debug\5_9_CreatingMockObjectsUsingMoq.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\5_9_CreatingMockObjectsUsingMoq.exe.config
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\5_9_CreatingMockObjectsUsingMoq.exe
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\5_9_CreatingMockObjectsUsingMoq.pdb
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\EntityFramework.dll
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\EntityFramework.SqlServer.dll
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\Newtonsoft.Json.dll
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\EntityFramework.xml
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\EntityFramework.SqlServer.xml
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\bin\Debug\Newtonsoft.Json.xml
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\obj\Debug\5_9_CreatingMockObjectsUsingMoq.csproj.CopyComplete
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\obj\Debug\5_9_CreatingMockObjectsUsingMoq.exe
+D:\[OOP] - Object Oriented Programming\Test\5_9_CreatingMockObjectsUsingMoq\5_9_CreatingMockObjectsUsingMoq\obj\Debug\5_9_CreatingMockObjectsUsingMoq.pdb
